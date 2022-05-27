@@ -1,4 +1,4 @@
-using System;
+ using System;
 
  public class Program {
 
@@ -14,3 +14,6 @@ using System;
     Console.WriteLine("Perímetro = {0:0.00}", Perimetro);
     Console.WriteLine("Diagonal = {0:0.00}", Diagonal);
       
+     
+    }  
+ }
