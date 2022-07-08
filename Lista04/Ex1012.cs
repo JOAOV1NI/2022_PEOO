@@ -13,10 +13,10 @@ public class Program {
       double trapezio = ((a + b) * c) / 2;
       double quadrado = Math.Pow(b,2);
       double retangulo = a * b ;
-      Console.WriteLine($"TRIANGULO: {tr:0.000}");
-      Console.WriteLine($"CIRCULO: {cir:0.000}");
-      Console.WriteLine($"TRAPEZIO: {tra:0.000}");
-      Console.WriteLine($"QUADRADO: {qua:0.000}");
-      Console.WriteLine($"RETANGULO: {ret:0.000}");
+      Console.WriteLine($"TRIANGULO: {triangulo:0.000}");
+      Console.WriteLine($"CIRCULO: {circulo:0.000}");
+      Console.WriteLine($"TRAPEZIO: {trapezio:0.000}");
+      Console.WriteLine($"QUADRADO: {quadrado:0.000}");
+      Console.WriteLine($"RETANGULO: {retangulo:0.000}");
   }
 }
